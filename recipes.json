@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Spaghetti Bolognese",
+        "ingredients": ["spaghetti", "ground beef", "tomato sauce", "onion", "garlic"],
+        "instructions": "Cook the spaghetti. Brown the beef with onion and garlic. Add tomato sauce and simmer. Serve the sauce over the spaghetti."
+    },
+    {
+        "name": "Chicken Curry",
+        "ingredients": ["chicken", "curry powder", "coconut milk", "onion", "garlic"],
+        "instructions": "Brown the chicken with onion and garlic. Add curry powder and cook for a minute. Add coconut milk and simmer until chicken is cooked."
+    },
+    {
+        "name": "Grilled Cheese Sandwich",
+        "ingredients": ["bread", "cheese", "butter"],
+        "instructions": "Butter the bread. Place cheese between two slices of bread. Grill until golden brown."
+    }
+]
